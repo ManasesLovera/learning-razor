@@ -1,0 +1,9 @@
+.vscode/
+Migrations/
+RazorPagesMovieContext-8bc7a4f5-9d92-466d-839d-95f7e17e7658.db
+bin/
+obj/
+wwwroot/lib/bootstrap
+wwwroot/lib/jquery
+wwwroot/lib/jquery-validation
+wwwroot/lib/jquery-validation-unobtrusive
